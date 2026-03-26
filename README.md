@@ -8,7 +8,7 @@ It is a real-time hand tracking software that uses Mediapipe and OpenCV. The bot
 - `hand_landmarker.task` file found [here](https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task)
 
 ## Installation
-All dependancies can be installed using `pip install -r requirements.txt`
+All dependencies can be installed using `pip install -r requirements.txt`
 
 ## Usage
 `python tracing.py`
