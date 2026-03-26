@@ -12,4 +12,5 @@ All dependancies can be installed using `pip install -r requirements.txt`
 
 ## Usage
 `python tracing.py`
+
 Press 'q' to quit
