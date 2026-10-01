@@ -1,4 +1,4 @@
-from tracer import *
+from tracing import *
 
 options = define_options(python.BaseOptions(model_asset_path="hand_landmarker.task"), 2, 0.8, 0.8, 0.8)
 detector = vision.HandLandmarker.create_from_options(options)
